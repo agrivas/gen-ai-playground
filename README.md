@@ -1,1 +1,3 @@
-# gen-ai-playground
+# Generative AI playground
+
+A few experiments on Generative AI.

@@ -1,3 +1,3 @@
 # Generative AI playground
 
-Playing around with LLMs.
+A few experiments on Generative AI.

@@ -1,3 +1,4 @@
 # Generative AI playground
 
-A few experiments on Generative AI.
+A few Generative AI experiments running on a gaming laptop:
+* Structured data extraction with Mistral-7b-Instruct 
